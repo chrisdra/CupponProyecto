@@ -1,0 +1,32 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+nav{
+  background-color: #28A745;
+}
+nav img{
+  width: 125px;
+}
+footer img{
+  width: 90px;
+}
+font{
+  font-weight: 500;
+  font-size: 20px;
+}
+h1{
+  font-weight: 500;
+  font-size: 21px;
+}
+h2{
+  font-weight: 300;
+  font-size: 20px;
+}
+h3, a{
+  font-weight: 300;
+  font-size: 16px;
+}
+h4{
+  font-weight: 300;
+  font-size: 13px;
+}
